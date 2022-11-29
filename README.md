@@ -7,3 +7,16 @@ Acontinuacion se presentara el proceso de la creación de un traductor de lengua
 
 
 # Creacion de cascaron
+
+Creación de un cascarón para una interfaz con la que se empezara el proyecto para comenzar a usar nuestro propio lenguaje.
+
+![interfaz](https://user-images.githubusercontent.com/93956966/204643194-8fdeca79-6076-47e4-8e78-bb60130d4d0e.png)
+    Figura 1: Cascarón de interfaz para creación para uso de nuestro lenguaje
+
+Declaración de tokens para iniciar un lenguaje basico void main(),para uso de operaciones basicas de matematicas multiplicación, división, suma y resta
+
+
+![tokens](https://user-images.githubusercontent.com/93956966/204643470-524fc3f6-ab3c-4191-a548-5c07bdb77e69.png)
+  Figura 2:Declaración de tokens para inicar un lenguaje básico 
+  
+  
