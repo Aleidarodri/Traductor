@@ -22,16 +22,19 @@ Figura 2:Declaración de tokens para inicar un lenguaje básico
  Creación de una expresión básica de matematicas con un metodo  basico void  main() con declaración de expresión.
  
  ![metodo](https://user-images.githubusercontent.com/93956966/204644094-81dfda11-d6c1-42c3-8749-0c4d99696cb9.png)
+Figura 3: metodo de declaración de operaciones
 
 Visita a BaseVisitor a los metodos para realizar cada operación en MyVisitor,con declaración estableciendo limite en dos operaciones del mismo nivel,como Multiplicación y división o Suma y resta 
 
 ![limite](https://user-images.githubusercontent.com/93956966/204644283-0cfa9e6e-391d-44f6-a272-af628ece7270.png)
 
+Figura 4:Visita a los metodos de limitación para cada una de las operaciones 
 
 Prueba de metodo Void main (){} en intefaz con resultado de declaración de variable con asignación e impresión de la misma 
 
 ![prueba1](https://user-images.githubusercontent.com/93956966/204644778-c5776ae3-ba59-4816-9f01-42d25c4090ad.png)
 
+Figura 5: Declaracion de variables e impresión de la mismas.
 
 
 
