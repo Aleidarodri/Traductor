@@ -12,6 +12,8 @@ Creación de un cascarón para una interfaz con la que se empezara el proyecto p
 
   ![interfaz](https://user-images.githubusercontent.com/93956966/204643194-8fdeca79-6076-47e4-8e78-bb60130d4d0e.png)
 
+Figura 1:Cascarón de interfaz para creación para uso de nuestro lenguaje
+
 Declaración de tokens para iniciar un lenguaje basico void main(),para uso de operaciones basicas de matematicas multiplicación, división, suma y resta
 
   ![tokens](https://user-images.githubusercontent.com/93956966/204643470-524fc3f6-ab3c-4191-a548-5c07bdb77e69.png)
@@ -21,6 +23,7 @@ Figura 2:Declaración de tokens para inicar un lenguaje básico
  Creación de una expresión básica de matematicas con un metodo  basico void  main() con declaración de expresión.
  
  ![metodo](https://user-images.githubusercontent.com/93956966/204644094-81dfda11-d6c1-42c3-8749-0c4d99696cb9.png)
+
 Figura 3: metodo de declaración de operaciones
 
 Visita a BaseVisitor a los metodos para realizar cada operación en MyVisitor,con declaración estableciendo limite en dos operaciones del mismo nivel,como Multiplicación y división o Suma y resta 
