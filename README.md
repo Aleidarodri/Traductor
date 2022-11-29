@@ -36,5 +36,13 @@ Prueba de metodo Void main (){} en intefaz con resultado de declaración de vari
 
 Figura 5: Declaracion de variables e impresión de la mismas.
 
+Metodo para que en caso de que se declaren dos varibales iguales,salga un error en pantalla donde te diga que ya hay una variable asignada con el mismo nombre 
 
+![error](https://user-images.githubusercontent.com/93956966/204645737-e2850eaa-1a3b-4add-a689-8bed084069ca.png)
+
+Figura 6:Declaración de error en dos variables iguales   
+
+![errorint](https://user-images.githubusercontent.com/93956966/204645895-f129edb7-7d21-4fc2-a918-bcea35268918.png)
+
+Figura 7: Declaración de error en dos variables iguales en la intefaz   
 
