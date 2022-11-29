@@ -17,6 +17,7 @@ Declaración de tokens para iniciar un lenguaje basico void main(),para uso de o
 
 
 ![tokens](https://user-images.githubusercontent.com/93956966/204643470-524fc3f6-ab3c-4191-a548-5c07bdb77e69.png)
-  Figura 2:Declaración de tokens para inicar un lenguaje básico 
+ 
+ Figura 2:Declaración de tokens para inicar un lenguaje básico 
   
   
