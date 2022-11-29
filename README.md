@@ -51,6 +51,7 @@ Figura 7: Declaración de error en dos variables iguales en la intefaz
  Prueba de potencia de un numero e impresión de la potencia con el metodo Math.pow.(ex,num)  ,donde ex=exponente y num=numero del que quieres sacar su exponente 
  
   ![potencia](https://user-images.githubusercontent.com/93956966/204651638-aa93d714-e0a7-438e-b784-4c8c885251ac.png)
+
 Figura 8: Declaracion de variables e impresión de la potencia
 
 
