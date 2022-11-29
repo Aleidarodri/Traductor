@@ -10,11 +10,11 @@ Acontinuacion se presentara el proceso de la creación de un traductor de lengua
 
 Creación de un cascarón para una interfaz con la que se empezara el proyecto para comenzar a usar nuestro propio lenguaje.
 
-![interfaz](https://user-images.githubusercontent.com/93956966/204643194-8fdeca79-6076-47e4-8e78-bb60130d4d0e.png)
+  ![interfaz](https://user-images.githubusercontent.com/93956966/204643194-8fdeca79-6076-47e4-8e78-bb60130d4d0e.png)
 
 Declaración de tokens para iniciar un lenguaje basico void main(),para uso de operaciones basicas de matematicas multiplicación, división, suma y resta
 
-![tokens](https://user-images.githubusercontent.com/93956966/204643470-524fc3f6-ab3c-4191-a548-5c07bdb77e69.png)
+  ![tokens](https://user-images.githubusercontent.com/93956966/204643470-524fc3f6-ab3c-4191-a548-5c07bdb77e69.png)
 
 Figura 2:Declaración de tokens para inicar un lenguaje básico 
   
@@ -25,23 +25,29 @@ Figura 3: metodo de declaración de operaciones
 
 Visita a BaseVisitor a los metodos para realizar cada operación en MyVisitor,con declaración estableciendo limite en dos operaciones del mismo nivel,como Multiplicación y división o Suma y resta 
 
-![limite](https://user-images.githubusercontent.com/93956966/204644283-0cfa9e6e-391d-44f6-a272-af628ece7270.png)
+  ![limite](https://user-images.githubusercontent.com/93956966/204644283-0cfa9e6e-391d-44f6-a272-af628ece7270.png)
 
 Figura 4:Visita a los metodos de limitación para cada una de las operaciones 
 
 Prueba de metodo Void main (){} en intefaz con resultado de declaración de variable con asignación e impresión de la misma 
 
-![prueba1](https://user-images.githubusercontent.com/93956966/204644778-c5776ae3-ba59-4816-9f01-42d25c4090ad.png)
+  ![prueba1](https://user-images.githubusercontent.com/93956966/204644778-c5776ae3-ba59-4816-9f01-42d25c4090ad.png)
 
 Figura 5: Declaracion de variables e impresión de la mismas.
 
 Metodo para que en caso de que se declaren dos varibales iguales,salga un error en pantalla donde te diga que ya hay una variable asignada con el mismo nombre 
 
-![error](https://user-images.githubusercontent.com/93956966/204645737-e2850eaa-1a3b-4add-a689-8bed084069ca.png)
+  ![error](https://user-images.githubusercontent.com/93956966/204645737-e2850eaa-1a3b-4add-a689-8bed084069ca.png)
 
 Figura 6:Declaración de error en dos variables iguales   
 
-![errorint](https://user-images.githubusercontent.com/93956966/204645895-f129edb7-7d21-4fc2-a918-bcea35268918.png)
+  ![errorint](https://user-images.githubusercontent.com/93956966/204645895-f129edb7-7d21-4fc2-a918-bcea35268918.png)
 
 Figura 7: Declaración de error en dos variables iguales en la intefaz   
+
+ Prueba de potencia de un numero e impresión de la potencia con el metodo Math.pow.(ex,num)  ,donde ex=exponente y num=numero del que quieres sacar su exponente 
+ 
+  ![potencia](https://user-images.githubusercontent.com/93956966/204651638-aa93d714-e0a7-438e-b784-4c8c885251ac.png)
+Figura 8: Declaracion de variables e impresión de la potencia
+
 
