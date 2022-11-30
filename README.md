@@ -6,7 +6,7 @@ comprendido por el equipo y pueda ser procesado o ejecutado por este.
 Acontinuacion se presentara el proceso de la creación de un traductor de lenguaje C a la creacion de un lenguaje propio,en este caso se tradujo frances y al finalizar con un lenguaje de Maquina(jasmine)
 
 
-# Creacion de cascaron
+# Creación de cascarón
 
 Creación de un cascarón para una interfaz con la que se empezara el proyecto para comenzar a usar nuestro propio lenguaje.
 
@@ -55,7 +55,7 @@ Figura 7: Declaración de error en dos variables iguales en la intefaz
 Figura 8: Declaracion de variables e impresión de la potencia
 
 
-# Creacion de traducor
+# Creación de traductor
 
  Inicio de una nueva gramatica G4 para empezar a traducir de lenguaje C al lenguaje  propio con los mismos tokens pero ahora declarados para el lenguaje C
 
@@ -98,7 +98,7 @@ Prueba de metodo sencillo void main() \{\} para traducción sencilla del lenguaj
 Figura 7: Metodo sencillo para prueba de traducción de lenguaje c al propio con impresión de variable repetida
 
 
-# Creacion de If y variables
+# Creación de If y variables
 
 Para el metodo if se hizo una modificación de la gramatica inicial,agregando las condiciones < , > ,<= ,>= ,!=,==,TRUE,FALSE"
 
@@ -145,7 +145,7 @@ Figura 5:Para la condicional if else if se necesita visitar al if para verificar
   Figura 6: Tester de un if else if sencillo con condiciones
 
 
-# Creacion de ciclo For
+# Creación de ciclo For
 for Creación del ciclo for sabemos que es el que se encarga de repetir e implementar un cierto numero de veces una condición que sea la que se implementa 
 
 
@@ -186,7 +186,7 @@ Figura 1:  Creacion de los mapas,el mapa general llamado "mapital" y el mapa tem
 Una vez teniendo ambos mapas ,se crearon 4 metodos donde cada uno se encarga de verificar cada uno de los datos ,para ver detectar si una variable esta repetida,declarada o no declarada o sin valor,en caso de llegue a ver una,los metodos detectaran cual es y mandaran un aviso para informar
 
 
-El primer metodo es el que se encarga de verificar si una variable esta declarda,donde pregunta si el id(aller) ya tiene un valor,en caso de que si regresara un true y en caso de que la varible este declarada un nivel mas abajo,se llamara a la memoria temporal para saber si ya esta declarada en caso de que si,se tomara el valor se ahi.
+El primer metodo es el que se encarga de verificar si una variable esta declarada,donde pregunta si el id(aller) ya tiene un valor,en caso de que si regresara un true y en caso de que la varible este declarada un nivel mas abajo,se llamara a la memoria temporal para saber si ya esta declarada en caso de que si,se tomara el valor se ahi.
 
   ![declarada](https://user-images.githubusercontent.com/93956966/204692389-e8085c49-3271-46b3-a327-00fae031205f.png)
   
@@ -240,21 +240,21 @@ sabemos que tiene que para ir  hacia un goto y un label, este caso en jasmine se
   
   Figura 4:Codigo de condicional if en jasmine 
   
-La creacion del cilo for,para la creacion del cilo for ,sabemos que se tiene que ir al goto resultado + al actual con un contador  donde primero visita si la asignación es diferente a null,despues visita asiganacion o en caso de que no cumpla,esta visita a declaración.
+La creacion del ciclo for,para la creación del cilo for ,sabemos que se tiene que ir al goto resultado + al actual con un contador  donde primero visita si la asignación es diferente a null,despues visita asiganacion o en caso de que no cumpla,esta visita a declaración.
   ![forjas](https://user-images.githubusercontent.com/93956966/204697489-8a996922-3223-45c3-af64-21c280692d19.png)
   
   Figura 4: Codigo maquina para el ciclo for 
   
   ![pruebajas](https://user-images.githubusercontent.com/93956966/204698070-af483c47-4aaa-45f4-99d3-95907d9e1148.png)
 
-Figura 5: Muestra de una traduccion e implementacion de el los diferentes metedos e implementaciones de ciclos e operacion que se realizaron a lo largo de todo el semestre 
+Figura 5: Muestra de una traducción e implementación de el los diferentes metedos e implementaciones de ciclos e operacion que se realizarón a lo largo de todo el semestre 
 
-Para finalizar,la implementacion de que se cree el archivo y se compile y el resultado se implemete en la interfaz 
+Para finalizar,la implementación de que se cree el archivo y se compile y el resultado se implemete en la interfaz 
 
 
 ![jasmine](https://user-images.githubusercontent.com/93956966/204698685-38ebf698-edf8-4e54-a74d-8af69d2a736e.png)
 
-Figura 6: Codigo para creacion de archivo.j y la implementacion para que el resultado ya sea mostrado en la intefaz final.
+Figura 6: Codigo para creación de archivo.j y la implementación para que el resultado ya sea mostrado en la intefaz final.
 
 # Conclusión
 
