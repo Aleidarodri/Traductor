@@ -55,3 +55,4 @@ Figura 7: Declaración de error en dos variables iguales en la intefaz
 Figura 8: Declaracion de variables e impresión de la potencia
 
 
+
